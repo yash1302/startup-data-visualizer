@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+startupDataVisualization/
 
 # C extensions
 *.so
